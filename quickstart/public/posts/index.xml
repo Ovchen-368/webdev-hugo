@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Породы котопсов</title>
+    <link>http://localhost/posts/</link>
+    <description>Recent content in Posts on Породы котопсов</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 23 Oct 2024 18:29:34 +0300</lastBuildDate>
+    <atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost/posts/my-first-post/</link>
+      <pubDate>Wed, 23 Oct 2024 18:29:34 +0300</pubDate>
+      <guid>http://localhost/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Котопес</title>
+      <link>http://localhost/posts/no-kotopes/</link>
+      <pubDate>Wed, 23 Oct 2024 18:29:32 +0300</pubDate>
+      <guid>http://localhost/posts/no-kotopes/</guid>
+      <description>&lt;h3 id=&#34;порода-котопса&#34;&gt;Порода котопса&lt;/h3&gt;&#xA;&lt;p&gt;КотоПес - это странный гибрид кошки и собаки, живущий в абсурдном, загадочном мире, наполненном удивительными персонажами, парадоксальными событиями и безумными приключениями.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://otvet.imgsmail.ru/download/272899079_0774f4ad168c04f33ed6355d810fe9c8_800.jpg&#34; alt=&#34;Котопес&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
